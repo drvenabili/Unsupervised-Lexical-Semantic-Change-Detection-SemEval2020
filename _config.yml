@@ -4,5 +4,5 @@ description: "SemEval 2020 Task 1"
 #repository: "faustusdotbe/Unsupervised-Lexical-Semantic-Change-Detection-SemEval2020"
 plugins:
   - jekyll-redirect-from
- whitelist:
+whitelist:
   - jekyll-redirect-from
