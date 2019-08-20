@@ -1,3 +1,6 @@
+<HEAD><meta http-equiv="REFRESH" content="0;url=https://competitions.codalab.org/competitions/20948"></HEAD>
+
+
 # SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection
 
 This website is a placeholder for the Unsupervised Lexical Semantic Change Detection (Task 1) at SemEval 2020, organised by **Barbara McGillivray** (The Alan Turing Institute / University of Cambridge), **Dominik Schlechtweg** (University of Stuttgart), **Simon Hengchen** (University of Helsinki), **Haim Dubossarsky** (University of Cambridge), and **Nina Tahmasebi** (University of Gothenburg).
