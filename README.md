@@ -1,4 +1,5 @@
-<HEAD><meta http-equiv="REFRESH" content="0;url=https://competitions.codalab.org/competitions/20948"></HEAD>
+title: SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection
+redirect_to: https://competitions.codalab.org/competitions/20948
 
 
 # SemEval 2020 Task 1: Unsupervised Lexical Semantic Change Detection

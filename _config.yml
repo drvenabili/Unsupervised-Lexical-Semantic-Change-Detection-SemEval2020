@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: "Unsupervised Lexical Semantic Change Detection"
 description: "SemEval 2020 Task 1"
 #repository: "faustusdotbe/Unsupervised-Lexical-Semantic-Change-Detection-SemEval2020"
+plugins:
+  - jekyll-redirect-from
